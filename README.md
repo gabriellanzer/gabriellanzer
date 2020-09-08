@@ -4,7 +4,7 @@ I am a software developer by profession, and game dev by 💘, who enjoys workin
 
 ### Find me on the Word Wide Web
 - 🎮 You may find the games I created on [Itch.io](https://gabriellanzer.itch.io)
-- 🎵 You can match my interesets on [Twitter](https://twitter.com/gabriellkann)
+- 🎵 You can match my interests on [Twitter](https://twitter.com/gabriellkann)
 - 📫 You can reach me at [gabriellanzerlive@hotmail.com](mailto:gabriellanzerlive@hotmail.com)
 
 ### My passions
