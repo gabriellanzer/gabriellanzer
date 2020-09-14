@@ -5,6 +5,7 @@ I am a software developer by profession, and game dev by 💘, who enjoys workin
 ### Find me on the World Wide Web
 - 🎮 You may find the games I created on [Itch.io](https://gabriellanzer.itch.io)
 - 🎵 You can match my interests on [Twitter](https://twitter.com/gabriellkann)
+- 🔨 You also can check my [LinkedIn work profile](https://www.linkedin.com/in/gabriel-lanzer-287446b1/).
 - 📫 You can reach me at [gabriellanzerlive@hotmail.com](mailto:gabriellanzerlive@hotmail.com)
 
 ### My passions
