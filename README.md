@@ -1,6 +1,6 @@
 ## ✨ Welcome to my Github profile! ✨
 
-I am a game developer by profession (working at [Aquiris GS](https://www.aquiris.com.br/)) and software dev by 💘, who enjoys working with **Data-Oriented Design**, **Low-Level Graphics APIs** and **Network** related things. See my repos above this read-me. 👇
+I am a game developer by profession (working at [EA Vancouver](https://www.ea.com/sports) and software dev by 💘, who enjoys working with **Data-Oriented Design**, **Low-Level Graphics APIs** and **Network** related things. See my repos above this read-me. 👇
 
 ### Find me on the World Wide Web
 - 🎮 You may find the games I created on [Itch.io](https://gabriellanzer.itch.io)
