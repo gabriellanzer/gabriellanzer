@@ -5,7 +5,7 @@ I am a game developer by profession (working at [EA Vancouver](https://www.ea.co
 ### Find me on the World Wide Web
 - 🎮 You may find the games I created on [Itch.io](https://gabriellanzer.itch.io)
 - 🎵 You can match my interests on [Twitter](https://twitter.com/gabriellkann)
-- 🔨 You also can check my [LinkedIn work profile](https://www.linkedin.com/in/gabriel-lanzer-287446b1/).
+- 🔨 You also can check my [LinkedIn work profile](https://www.linkedin.com/in/gabriel-kannenberg-287446b1/).
 - 📫 You can reach me at [gabriellanzerlive@hotmail.com](mailto:gabriellanzerlive@hotmail.com)
 
 ### My passions
